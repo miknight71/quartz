@@ -1,3 +1,0 @@
-- [[Earning Fate]]
-- [[Spending Fate]]
-- [[Spending Limits]]

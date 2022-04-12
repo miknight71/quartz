@@ -1,1 +1,0 @@
-- [[Help|Helpers]] [[I Just Learned Something|learn]] when they give dice. Regardless of the fact that you only give one die or whatever your exponent, base your advancement off the actors total number of dice thrown. 

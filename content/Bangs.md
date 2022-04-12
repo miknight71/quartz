@@ -1,2 +1,0 @@
-- A GM introduced event which forces the player character to make an interesting choice. 
-- Each choice must propel the story in a new and interesting direction. 

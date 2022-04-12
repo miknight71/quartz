@@ -1,3 +1,0 @@
-- (See the book *page 50*) #TBR 
-- When testing with [[Beginners Luck|Beginner's Luck]], measure the test for advancement based on the Ob before doubling it. This allows you to make routine tests even though the actual die roll may be too high. 
-- Also add disadvantages to the test for advancement ([[Double Obstacle Penalty|don't double those]])

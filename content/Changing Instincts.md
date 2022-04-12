@@ -1,2 +1,0 @@
-- Instincts may be changed through the character's experience in play (at the GM's discretion)
-- Similar to [[Changing Beliefs|changing beliefs]].

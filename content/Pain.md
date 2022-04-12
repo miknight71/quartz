@@ -1,2 +1,0 @@
-- When a character is seriously injured or in excruciating pain he must make a [[Steel]] test to retain control of his character.
-- More is discussed in [[Anatomy of Injury]]

@@ -1,7 +1,0 @@
-- Per *role*, a player may only spend up to:
-	- 1 [[Fate]]
-	- 3 [[Persona]] for bonus dice
-	- 1 persona for [[Spending Persona#^dbe2dd|Focus]]
-	- 2 [[Deeds]] (once for inspiration, once for grace)
-- Per *session*, a player may only spend:
-	- 1 Persona [[Persona Point Complications|complication]]

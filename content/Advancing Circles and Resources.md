@@ -1,1 +1,0 @@
-- When advancing [[Circles|Circles]], remember to calculate with bonus die in mind.

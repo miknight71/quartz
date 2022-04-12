@@ -1,3 +1,0 @@
-- [[Character Burning|Burn characters]] with at least one fate and one persona. 
-- For more casual gaming, start with three fate, one persona. 
-- Deeds are best enjoyed when earned, but you may start with one if you want a heroic adventure.

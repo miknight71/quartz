@@ -1,2 +1,0 @@
-- [[Linked Tests|Linked tests]] do not need to be immediately after eachother. They can even be seperated by entire sessions. And the [[Advantage Dice and Advancement|bonus die]] will still transfer over. 
-- Keep a log of ongoing Linked tests in a game master document. 

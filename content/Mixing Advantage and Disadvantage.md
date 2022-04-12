@@ -1,1 +1,0 @@
-- Advantage and disadvantage do not cancel each other out, they can both be added simultaneously into a test.

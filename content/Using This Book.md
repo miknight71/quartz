@@ -1,1 +1,0 @@
-- You should read the first 75 pages, then burn your character, then play a game, then explore the rules further, adding what you'd like.

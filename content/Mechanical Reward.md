@@ -1,2 +1,0 @@
-- Characters can be played against their traits to generate [[Artha|Artha]]. 
-	- [[Fun (working title)|This encourages you to get into bad situations]]. 

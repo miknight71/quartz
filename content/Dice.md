@@ -1,5 +1,0 @@
-- BW uses **D6**
-- Players will roll dice pools of 3D6 - 6D6 where 4's - 6's are "yes" and 1's - 3's are "no"/"traitor".
-- The number of "yes's" needed to overcome a challenge is called the **Difficulty Number** 
-- Yes's are also called "successes", which are counted after a roll. 
-- See also [[Basic Dice in Brief]]

@@ -1,1 +1,0 @@
-- Obstacles may be increased by extenuating circumstances. Players may not argue that an Ob be decreased by extenuating circumstances, but they may be granted more die to their roll. 

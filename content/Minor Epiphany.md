@@ -1,1 +1,0 @@
-- A player may spend his aristeia to shade-shift a stat or skill for the duration of a single scene (a fight, a goal, a gauntlet, an argument, etc.)

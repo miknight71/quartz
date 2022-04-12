@@ -1,4 +1,0 @@
-- A player can claim his character has a clear advantage, earning him +1D per test. (Maximum you may earn +2D)
-- He must make his argument in the form of a single, clear sentence, with **no situation lawyering**
-- Good roleplay can earn advantage for social situations.
-- [[Gear and Stuff|Gear, tools, and other items]] (as well as working [[Carefully, Patiently, Quickly - Allocating Successes|carefully, patiently, or quickly]]) can give you advantages.

@@ -1,1 +1,0 @@
-- Once you have spent a total of 5 fate, 3 persona, and 1 deeds, you earn an aristeia (Gr: "excellence") point that you may use to purchase a **[[Minor Epiphany]]** or a **[[Divine Aura]]**.

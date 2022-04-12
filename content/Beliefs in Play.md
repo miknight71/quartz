@@ -1,5 +1,0 @@
-- Let other players in on your character's beliefs so that they can riff off the irony and drama of your character with their own.  ^c97c2c
-- Sometimes beliefs are challenged, betrayed and broken, but that makes good emotional drama, and thus a good game with meaningful actions. 
-- Don't break a character's belief in the first session (for instance, killing the object of loyalty), that can drain momentum before it's started.
-- Sometimes, fulfilling a goal can snuff out a good character and limit the player. The fun often is in the struggle alone. 
-- Beliefs, besides being used for drama, are useful for earning [[Artha|Artha]], a point system that mechanically helps the players.

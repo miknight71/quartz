@@ -1,4 +1,0 @@
-- Long-term or complex operations may require linked-tests where one player or multiple players perform distinct ability tests in order to accomplish the goal. 
-- [[Failure Behind, Success Ahead|Each test effects the subsequent ones]].
-- [[Time and Linked Tests|A linked test can cover long spans of time]]. 
-- [[Linked Tests do not need to immediately follow each other|Linked Tests do not need to immediately follow each other]]

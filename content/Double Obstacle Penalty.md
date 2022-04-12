@@ -1,1 +1,0 @@
-- Some rolls are penalized by doubling the obstacle (or the opponents successes) then add modifiers.

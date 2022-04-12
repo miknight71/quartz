@@ -1,8 +1,0 @@
-- Practice improves skills at the cost of significant in-game time. 
-- [[Practice Times (chart)|Consult the Practice Times chart to see what sorts of practice tests you're able to perform]].
-- **Maximum Practice**: A character's maximum daily practice hours is three times his [[Will|Will]] exponent - up to a maximum of 20 hours.
-	- [[All Day Every Day|You cannot practice while being taught]].
-- **Using Practice in the Game**: When players are undertaking a long in-game task (working on the farm, meditating in the hills) they can count that period as practice for pertinent abilities.
-- When the time is met, log the test note. 
-- Players who have been absent from sessions can reintroduce their character as having been practicing. 
-- Log your practice even if it isn't a full cycle. Once the cycle completes you earn the test. 

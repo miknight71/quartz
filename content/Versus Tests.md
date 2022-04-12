@@ -1,6 +1,0 @@
-- When two characters (players or NPCs) are in conflict, both roll their ability against each other. The one with the most successes wins the test.
-- If there is a defender, they win ties, otherwise both aggressors are deadlocked.
-- Ties are not to be re-rolled. (See [[Let it Ride]])
-- [[Versus Tests Revisited|When two players cannot decide who should do an action, or what direction the party should go, do a versus test]].
-- See also: 
-	- [[Advancement for Versus Tests]]

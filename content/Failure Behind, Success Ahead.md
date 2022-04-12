@@ -1,2 +1,0 @@
-- During a [[Linked Tests|linked-test]], if the character prior to you exceed their Obstacle test you gain a +1D [[Advantage|advantage]] for the next part of the Linked-test.
-- If the prior test failed to overcome their Obstacle, then you gain a [[Disadvantage|penalty]] of -1D for your portion of the linked-test.

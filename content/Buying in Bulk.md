@@ -1,1 +1,0 @@
-- Add a +1 or +2 Ob, then multiply the materials received by 10 or 100. 

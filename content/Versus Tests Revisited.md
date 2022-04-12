@@ -1,4 +1,0 @@
-- Whenever two players have a conflict (ie: they both want their character's to grab the same object, or are in a fight) we do [[Versus Tests]] to see who gets to do the action.
-- Versus tests keep the game fair, [[Role of the GM|give players influence in the game]], and allow the players to engage in the game story.
-- We cant rely on players to be fair and work things out, that's why we rely on the roll. 
-- These mechanics drive dramatic, intense play. 

@@ -1,1 +1,0 @@
-- [[Perception|Perception]]/[[Agility|Agility]]/[[Speed|Speed]]. How often a character can act. 

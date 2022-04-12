@@ -1,5 +1,0 @@
-- When a character is startled by a sudden action or shocking revelation he makes a [[Steel]] test. 
-	- witnessing childbirth
-	- having a gun pointed at you
-- Make the Surprise Steel test **if his next steps require immediate response**.
-- If there are no stakes to taking your sweet time, don't bother calling for a Steel test.

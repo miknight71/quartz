@@ -1,2 +1,0 @@
-- [[Aptitude|Aptitude]] requirements are the same as regular skills, but tests are only earned through practice & instruction. 
-- You cannot learn training skills through [[Beginners Luck|Beginner's Luck]]

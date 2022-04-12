@@ -1,5 +1,0 @@
-- The GM grants the player's [[Intent]] on a failed [[Resources]] test. 
-- The character's resources are still taxed at the normal rate. 
-- The player may decide to *Cut Your Losses* by declining the Gift of Kindness.
-	- Don't get your Intent
-	- Reduce your taxes to only -1D.

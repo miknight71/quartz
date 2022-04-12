@@ -1,6 +1,0 @@
-- The your [[Ability Ratings (Exponent)|exponent's]] "shade" (your character's level of potential) is represented by a color (Black, Grey, or White) and a corresponding number (4's, 3's, or 2's) dictates what number a player must roll to earn a "yes"/success.
-	- Black "B": Roll a 4 or higher for success
-	- Grey "G": Roll a 3 or higher for success
-	- White "W": Roll a 2 or higher for success
-- Changing your shade is discussed in the **Character Burner** and **[[Artha|Artha]]** sections. (See [[Epiphany]] and [[Minor Epiphany]])
-- [[Shade and New Skills|The shade of new skills?]]

@@ -1,2 +1,0 @@
-- Once all [[Aptitude|aptitude]] tests have been made, write the skill in your character sheet. 
-- Starting skill exponent is half the root (or average of multiple roots) rounded down.

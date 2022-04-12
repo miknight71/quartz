@@ -1,3 +1,0 @@
-- 10 minus your [[Will]] = your Hesitation.
-- Your Hesitation number is the number of heartbeats you hesitate after failing a [[Steel]] test. 
-- *A Will of B6 means a character has a hesitation of 4.*

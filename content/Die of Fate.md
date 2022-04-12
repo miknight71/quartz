@@ -1,1 +1,0 @@
-- Some rules require you to roll a "**Die of Fate**" (DoF) where a dice roll corresponds to a specific outcome. 

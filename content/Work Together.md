@@ -1,6 +1,0 @@
-- The [[Role of the GM]] is to use beliefs from the characters to generate situations in the session. 
-	- Often you cannot incorporate all beliefs from all players each session.
-	- Just tie in a few beliefs from a couple characters for one session, then make sure to use the other character's beliefs as hooks for the following sessions.
-- The players can negotiate with the GM and each other what is currently relevant to the story at hand. 
-	- [[Anchored Beliefs|Then incorporate new beliefs based on what's important this session]].
-- *A new player joins an ongoing campaign. The GM tells him the current situation - infiltrating a bandit camp. He also gives some broader information about the world - there is a magnificent lost city. In order to make sure the character has a good reason to join the party, the player makes beliefs that tie into the other characters, the situation, and the world. **One**: "I will redeem myself in the eyes of Anthony at any cost." **Two**: "I will aid Anthony and these other adventurers in overtaking the bandits." **Three**: "I must discover the lost city to recover the sword of my ancestors."* 

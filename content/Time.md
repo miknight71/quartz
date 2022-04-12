@@ -1,5 +1,0 @@
-- The time required for a test must be stated (by GM or Players) before dice are rolled. 
-- The time a test takes can vary from instantaneous to years depending on what it is. [[Length of Time|See examples]]. 
-- [[Breaking up a Test|A long task may be broken up into tasks which are shorter periods of time]]. 
-- [[Time and Failure|Success and failure take the same time]].
-- Play may include [[Time and Play - Meanwhile|"meanwhile..."]]

@@ -1,6 +1,0 @@
-- Skills can be taught by a teacher if their exponent is equal or higher than the student.
-- **Test Me**: For the student to earn a test, only the instructor rolls, not the student.  ^a05d3b
-- [[Instruction Obstacles|The teacher must pass a instruction skill test ranging from Ob1 to Ob6]]
-- [[Instruction Time|The instruction time depends on the Will of the instructor and and teacher as well as the Ob]]. 
-- [[All Day Every Day|While being instructed you cannot practice or be taught any other skills]].
-- [[Learning Training Skills|You may only learn how to teach via practice or instruction]]. 

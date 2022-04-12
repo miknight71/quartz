@@ -1,2 +1,0 @@
-- The group may also nominate a trait be removed because of play or character development. 
-- GM nominated removal requires unanimous vote, while owning player nominated removal requires majority vote. 

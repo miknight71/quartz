@@ -1,3 +1,0 @@
-- Player must make a sacrifice at great cost that benefits more than just the character.
-- *Accomplishing the task of overthrowing the government earns a persona point, while giving up the rights to rule yourself to the rightful heir earns a deed.*
-- [[Deeds Clarified|Clarifications on earning Deeds]].

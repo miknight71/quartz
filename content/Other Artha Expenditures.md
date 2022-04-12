@@ -1,4 +1,0 @@
-- Artha spent on Aristeia counts toward earning epiphanies.
-- Spending artha on [[Armor]] does not count.
-- Spending artha to [[Spending Fate#^5f6157|shrug it off]] or [[Spending Persona#^ff4f34|grit your teeth]] counts toward [[Health]] epiphanies.
-- Spending artha on emotional attributes counts only toward the emotional attribute, not the corresponding skill.

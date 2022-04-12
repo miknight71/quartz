@@ -1,4 +1,0 @@
-- You may generate your own [[Funds|Fund dice]] through a [[Resources]] test. 
-- Describe the form your fund will take, then make the test.
-- The Obstacle is the Fund's amount doubled + 1
-	- *Generating a 1D Fund would be an Ob 3.*

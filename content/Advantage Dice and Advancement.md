@@ -1,1 +1,0 @@
-- [[Advantage|Advantage and bonus dice]] count towards total dice for advancement

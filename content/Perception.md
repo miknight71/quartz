@@ -1,1 +1,0 @@
-- The character's mental acuity

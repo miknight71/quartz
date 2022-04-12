@@ -1,4 +1,0 @@
-- Epiphany is shade shifting an ability. 
-- Epiphany is earned by spending artha at critical events in a story
-- Once you have spent a total of 3 deeds, 10 persona, and 20 fate on a single ability, immediately [[Shade|shade-shift]] permanently. 
-- See what [[Other Artha Expenditures]] count towards epiphanies. 

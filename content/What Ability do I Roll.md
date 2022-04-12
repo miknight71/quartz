@@ -1,2 +1,0 @@
-- Usually the needed ability is clear. You can refer to the skill list to find the best fit.
-- Otherwise, ask the player more questions (details as to how he performs his action) to clarify which skill is needed.

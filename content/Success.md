@@ -1,2 +1,0 @@
-- Characters who roll successes equal or greater than the [[Obstacles to Overcome|Ob]] complete the actions **in the manner described by the player**. [[Task]] & [[Intent]]
-- The GM can explain how extra successes will be used before rolling. [[Graduated Tests]] ^f7f2c6

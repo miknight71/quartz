@@ -1,8 +1,0 @@
-- An ability used like a skill to determine a character's social influence and connections in ways that effect the game. 
-- "Circles" represents and abstracts your *Social Circles.*
-- [[Scope of Circles|You may ONLY circle up NPCs from your lifepath's setting]]
-- [[Circles Obstacles]]
-- [[Testing Circles]] by stating intent and task, then add bonus dice.
-- [[Enmity Clause]] - The result of the test determines if you find this person, and if they're favorable towards you.
-- The player may specify what knowledge the new NPC has and what their loyalties are, but it will effect the [[Circles Obstacles]]. 
-- 

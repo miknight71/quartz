@@ -1,5 +1,0 @@
-- You may use [[Wises]] in a [[Linked Tests]] to find uncommon resources or score a deal, and thus lower the Resources Test Ob.
-- Ob 1 - Commonly known Wise info
-- Ob 3 - Uncommon or hard to find details.
-- Ob 5 - Insider information
-- Ob 6+ - Really obscure information

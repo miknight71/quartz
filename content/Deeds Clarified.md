@@ -1,7 +1,0 @@
-- I award a [[Deeds|Deeds]] point when the characters move **the** world rather than **their** world.
-	- Do something "bigger than yourself" at personal sacrifice
-	- Even if you have the event written down in your beliefs, if success comes at great sacrifice and moves THE world, it's worthy. 
-	- Sacrifice your "petty aims" for a greater act
-	- If in the quest of your goal a player risks his character or something beloved to **unanticipated** height or depth, it's worthy. 
-	- If the sacrifice is part of the plan, it's probably not eligible. If the situation blows up, and you have to adapt at great sacrifice, you may be eligible. 
-- Deeds can be earned in conjunction with other Artha. It's not an either/or situation.

@@ -1,7 +1,0 @@
-- The "average" human competency in any given skill is exponent 4. (see [[Expertise by Exponent]])
-- 4 should be the most common number encountered in game. 
-- If an NPC needs to roll a skill, but you don't have any stats written up, default to 4 if you're in a rush. 
-- [[NPC Artha]]
-- During [[GM Prep]], create BITs for important NPCs that have been introduced, or that have a great impact on the game situation and player beliefs. 
-	- Give these NPCs strong agendas which will tie into the PCs BITs
-	- NPC BITs that are designed well will inevitably lead the players and the NPCs together. Even if these are allied NPCs, smart BITs will create some sort of inevitable conflict with at least one of the players. 

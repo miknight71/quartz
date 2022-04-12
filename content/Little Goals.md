@@ -1,3 +1,0 @@
-- While you may have a larger goal, make sure you always have a smaller goal that you can accomplish within this session. 
-- Another option is to take a big goal and break it down into smaller goals, some of which you may be able to achieve this session. 
-	- [[How Much (Artha)|Remember, you should always be able to accomplish at least one goal a session]].

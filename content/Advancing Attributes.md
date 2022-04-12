@@ -1,3 +1,0 @@
-- [[Reflexes|Reflexes]]/[[Mortal Wound|Mortal Wound]]: Advance with parent stats
-- [[Health|Health]]/[[Steel|Steel]]: Advance like [[Advancing Skills (Table)|skills]]
-- Emotions: Advance [[Number of Tests Required for Advancement|like skills]]  ([[Pass or Fail|Greed is special]]. See *page 43*)

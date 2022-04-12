@@ -1,1 +1,0 @@
-- A character must also spend the same amount of time [[Failure|failing]] a test as he does succeeding, unless he failed utterly and just gives up. 

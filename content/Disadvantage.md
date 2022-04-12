@@ -1,1 +1,0 @@
-- Anytime the GM feels the conditions put the character at a disadvantage, he increases the Ob by one for each individual disadvantage currently plaguing the character.

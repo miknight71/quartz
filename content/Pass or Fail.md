@@ -1,3 +1,0 @@
-- Tests (with only a few exceptions) for advancement are earned whether you pass or fail the test. 
-- **The Exceptions**: [[Perception|Perception]], [[Advancing Resources|Resources]] and [[Faith|Faith]]
-	- These three tests must be successful to count towards [[Advancement|advancement]]

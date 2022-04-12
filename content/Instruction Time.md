@@ -1,2 +1,0 @@
-- **Instruction Days** = (10 - Instructor's [[Will|Will]]) + (10 - Student's Will) + Ob of Instruction test
-- After the required [[Time|time]] elapses, student earns the test. 

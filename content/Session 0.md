@@ -1,1 +1,0 @@
-https://www.reddit.com/r/BurningWheel/comments/3df3q9/campaign_ideas_for_a_new_gm/ct51nbn?utm_medium=android_app&utm_source=share&context=3

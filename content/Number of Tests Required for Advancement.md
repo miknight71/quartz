@@ -1,4 +1,0 @@
-- Advancing an ability requires a player accumulate routine, difficult and challenging tests. See [[Difficulty by Obstacle]] & [[Routine, Difficult and Challenging]]
-- [[Advancing Skills (Table)|Advancing skills (See Table).]]
-	- [[Advancing Stats|Advancing Stats]].
-- Tests for advancement are earned [[Pass or Fail|whether you pass or fail]].

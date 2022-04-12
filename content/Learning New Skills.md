@@ -1,6 +1,0 @@
-- **Root Stats**: Each skill has a root stat. See the skills list to find each's root.
-- **Beginner's Luck**: [[Beginners Luck|Use your root stat's exponent for your dice, but double your Ob]].
-- **Aptitude**: [[Aptitude|The number of tests required to open a skill]].
-- [[Beginner's Luck for Learning|Measure the test for advancement before doubling it]].
-- [[Opening the Skill|Once you've made tests equal to your aptitude add your skill]]. 
-- [[Shade and New Skills|The skill opens as the same shade as it's darkest root's]].

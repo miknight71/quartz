@@ -1,2 +1,0 @@
-- When a character's resources are taxed down to exponent 0, he permanently loses 1D Resources exponent. 
-- You may only test [[Exponent 0]] Resources through [[Cash, Goods, Titles and Loans]] dice. 

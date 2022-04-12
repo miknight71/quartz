@@ -1,1 +1,0 @@
-- Linked tests allow players to accomplish goals of a broader scope, an entire journey in just a few minutes of play. 

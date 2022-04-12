@@ -1,4 +1,0 @@
-- BW is an RPG inspired by Tolkien. 
-- There is not established setting, but relies on you to create it. 
-- Players use the game mechanics to fulfill the role of characters in a world controlled by the GM.
-- The mechanics imply that choices and actions have real consequences and players should be prepared for that.

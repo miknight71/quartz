@@ -1,5 +1,0 @@
-- Characters may not defend themselves in anyway, or call for help.
-- They are overwhelmed:
-	- Stand there gasping
-	- clutching a wound
-	- standing motionless, trying to understand what just happened. 

@@ -1,3 +1,0 @@
-- When a character fails a test, the [[Role of the GM|GM]] should not present a flat negative result, but rather add a complication that propels the action in a new direction. 
-- Death is only a last resort. Try to complicate the situation in any other way to keep the momentum flowing. 
-- [[Two Directions|It must be clearly made known]] that death is the result of failure if it is the case. 

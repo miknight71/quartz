@@ -1,3 +1,0 @@
-- Combat is dirty, brutal, and deadly.
-- [[Simple Martial Conflict]] 
-- [[Bloody Versus]] 

@@ -1,6 +1,0 @@
-- If a character does not have the appropriate skill for a test, he can instead test by using that skill's "root" stat, but with the penalty that the [[Double Obstacle Penalty|base Ob is doubled]]. 
-	- [[Beginner's Luck for Learning|Measure tests for advancement before doubling]].
-- Add disadvantages and modifiers after the doubling.  
-- Beginner's Luck dice are equal to the root stat of the skill. 
-- Beginner's Luck may not be used for:
-	- [[Learning Training Skills|Teaching Skills]]

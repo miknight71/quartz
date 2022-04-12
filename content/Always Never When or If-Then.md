@@ -1,1 +1,0 @@
-- Instincts set a condition and a reaction to the condition for the character. The action must always be done, even without announcing it. 

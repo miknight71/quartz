@@ -1,3 +1,0 @@
-- Play the game in person, it's better
-- The GM must challenge the players, guide pacing, arbitrate rules, & play NPCs to make the game smooth
-- The players are all protagonists, and the [[Role of the GM|GM]] must make their priorities the focus of the story.

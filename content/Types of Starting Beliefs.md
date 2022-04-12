@@ -1,6 +1,0 @@
-- **Secrets**: make a character secret part of your belief. 
-- **Object**: an important or valuable object.
-- **NPC**: A belief about an NPC that is important to you in some way.
-- **Other Player Characters**: Having beliefs about other player characters gives them reason to be tied together.
-- **Acquisition**: if your character has something they want to learn or gain, make it a belief.
-- **Philosophy**: A character philosophy can be a belief. 

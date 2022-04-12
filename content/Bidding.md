@@ -1,4 +1,0 @@
-- An auction may be run to purchase [[Resources]]. 
-- Increase the bid by 1 Resources Ob per bid. 
-- Once the auction is won, the winner makes the Resources roll. 
-- No skill test is necessary for bidding. 

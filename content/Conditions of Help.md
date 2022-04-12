@@ -1,4 +1,0 @@
-- To be helped: 
-	- the acting player must willingly accept the help 
-	- The helping player must physically hand the active player his own die
-	- The helping player must participate (describe what he does) in the scene

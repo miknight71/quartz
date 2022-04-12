@@ -1,6 +1,0 @@
-- Generate [[Cash, Goods, Titles and Loans|cash]] through a [[Testing Resources|Resources test]]. 
-	- Ob 2 - generates 1D cash
-	- Ob 4 - generates 2D cash
-	- Ob 6 - generates 3D cash
-	- Ob 8 - generates 4D cash
-	- Ob 10 - generates 5D cash

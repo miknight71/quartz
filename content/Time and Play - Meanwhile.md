@@ -1,1 +1,0 @@
-- If one player is occupied taking care of a single test that takes hours, the GM may turn to the other players "Meanwhile, what are you doing?"

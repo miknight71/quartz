@@ -1,3 +1,0 @@
-- You have to spend money to make money. 
-- You [[Advancement|advance]] your [[Resources]] exponent by successful tests only.
-- If you advance while having [[Taxed Resources]], advance your maximum exponent and your taxed exponent by one. 

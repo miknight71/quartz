@@ -1,5 +1,0 @@
-- How a character is played (intentionally or not) changes him.
-- After a campaign/adventure, players and GM nominate characters to add new traits.
-- All other players besides the nominee vote to accept the new traits. Unanimous agreement adds the trait. 
-- Nominated traits should be a reflection of what's been happening in the game. 
-- Optional. The player in question can't talk

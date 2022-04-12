@@ -1,4 +1,0 @@
-- The character drops to the ground, either fallen over, kneeling down, or assuming the fetal position. 
-- Any items or weapons drop from their hands. 
-- Falling prone can be useful when avoiding projectiles. 
-- In combat, you may also beg for mercy. 
