@@ -1,0 +1,3 @@
+- When you want to do something, a player states their **Intent** ("I kill it...") and the **[[Task|task]].** ("... by throwing my sword at it.")
+- Describing your task in detail helps the GM and player determine the appropriate skill to test.
+- Knowing your intent helps the GM interpret the results of the test

@@ -1,0 +1,6 @@
+- Written instructions are given a Reading or Research test with a complexity Ob
+	- Ob 1-2: Information easily transmitted via text
+	- Ob 3-5: Complex instructions such as skills or building instructions
+	- Beyond: Really arcane stuff..
+- Successfully reading instructions give you a +1D bonus for the instructed task. Failing the test gives you +1 Ob to that test. 
+- [[Written Word as Practice|Instructions can be practice.]]

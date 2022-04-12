@@ -1,0 +1,2 @@
+- Always use the actual number of dice rolled to calculate difficulty. 
+- [[Helpers Learn|Helpers base their advancement off the acting character's total dice thrown]].

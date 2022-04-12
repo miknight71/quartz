@@ -1,0 +1,2 @@
+- Certain [[Basic Dice in Brief|rolls]] are called "**open ended**" meaning that if you roll a six, you count it as a success and roll that die again.
+- Tests for Steel, Faith, and some others are open ended. 

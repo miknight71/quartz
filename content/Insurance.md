@@ -1,0 +1,1 @@
+- Instincts can be used to out-lawyer the GM

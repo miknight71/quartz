@@ -1,0 +1,3 @@
+- Fall backwards in a dazed swoon. 
+- Players may instigate a swoon of their own volition. 
+- Players may continue the swoon longer than their hesitation if desired. 

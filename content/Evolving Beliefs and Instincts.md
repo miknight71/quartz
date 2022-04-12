@@ -1,0 +1,2 @@
+- Beliefs and instincts which have been acted on may be turned into traits.
+- [[Artha|Artha]] may be spent on traits to make them more potent. 

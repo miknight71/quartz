@@ -1,0 +1,11 @@
+- [[Elements of Character|Burning Wheel explores characters first and foremost]].
+- Characters are composed of:
+	- [[Stats|Stats]]
+	- [[Attributes|Attributes]]
+	- [[Skills|Skills]]
+	- [[Beliefs|Beliefs]]
+	- [[Instincts|Instincts]]
+	- [[Traits|Traits]]
+	- [[Resources|Resources]]
+	- [[Circles|Circles]]
+	- [[Gear and Stuff|Gear]]

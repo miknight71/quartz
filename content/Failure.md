@@ -1,0 +1,4 @@
+- Before rolling, Players give intent and task, GM informs them of possible consequences. [[Two Directions]]
+- [[Failure Complicates the Matter|Failure, like success, propels the story onward, never halting it.]]
+- [[Time and Failure]] 
+- [[Practical Failure]] 

@@ -1,0 +1,10 @@
+- Ob 1 - The day's food. A night's lodging. clothing and simple material goods. A laborer's wage. 
+- Ob 2 - Small apartment or cabin rent. A delicious meal. Fancy shoes or clothes. A Mule. Quilted armor (gambeson). Poor leather armor. Poor arms. Simple helmet. Ship passage. Travel gear. Servant' wage. Peasant tools. Seafaring tools. Musical tools. 
+- Ob 3 - Townhouse or country villa rent. Average arms. Average bow. Letter of Marque. Paying household staff or a professional assistant. Popular books. Riding horse or draft horse. A modest cart. Specialty and exotic spices. Quilted or leather horse armor. A knight's wage. Academic or craftsman tools. Average light mail. Average helmet. Poor bascinet. 
+- Ob 4 - Antiques, jewels, exotic fabrics, or rare books. A light-weight riding horse. All purpose horse. Average heavy mail. Sallet. Average long bow or great bow. Crossbow. A large baggage wagon. A small barge. A 18-man longboat. Rare herbs and specialty minerals. Trained falcons. Plated leather horse armor. A personal bodyguard. A personal trainer. Medical and artistic tools. 
+- Ob 5 - Average Warhorse. Average plated mail. High quality arms. Elven books of lore. Chainmail horse armor. A captain's wages or a lord's wages. Specialty tools. Great helm. 
+- Ob 6 - A Knight's warhorse (destrier). Average full metal plate armor. Dwarven arms. Elven bows. Plated mail horse armor. Purchasing a consideration of Baronial rank. Tools of sorcery.
+- Ob 7 - Renowned warhorse. Purchasing consideration for viscountyship. Full plate horse armor. Dwarven shield. 
+- Ob 8 - Industrial equipment: forge, cargo ship, printing press, etc. 
+- Ob 9 - Large cargo vessel. Legendary warhorse. Elven plated mail.
+- Ob 10 - A proper warship. Constructing a castle. Dwarven mail armor.  

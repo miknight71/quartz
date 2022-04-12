@@ -1,0 +1,2 @@
+- Exponents advance the moment the requirements are met, even in the middle of a conflict. 
+- [[Wipe the Slate Clean|Extra tests are discarded after an advancement]].

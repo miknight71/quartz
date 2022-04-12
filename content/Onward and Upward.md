@@ -1,0 +1,1 @@
+- When you use enough artha to augment a ability enough times [[Epiphany|your character has an epiphany and the ability shade-shifts up]] or a [[Minor Epiphany|minor epiphany]].

@@ -1,0 +1,4 @@
+- Working **carefully** adds 50% more time to an action and grants +1D
+- Working **patiently** allows extra earned successes to grant narrative description or flourish to the task
+- Working **quickly** allows each extra success to reduce time by 10%.
+- Players may **Mix Methods** - being careful, patient, and quick, all at once - but must describe this before rolling. 

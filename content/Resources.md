@@ -1,0 +1,8 @@
+- Every character is assigned a resource [[Ability Ratings (Exponent)|ability exponent]], used like a [[Skills|skill]] in the game to determine what can and cannot be afforded financially by a simple roll.
+- Resources abstracts material wealth, influence, trade, and banking to avoid penny counting. The test represents spending cash, and getting loans/references, and using your reputation to get you what you want. 
+- Make a Resources test when a player wants to purchase or acquire something. 
+- [[Resource Obstacles]] levels. 
+- [[Testing Resources]]
+- [[Lifestyles (Obstacles)|Everyone has a lifestyle with bills that must be maintained.]].
+- [[Advancing Resources]] must be done with successful tests. 
+- [[Currency]]. 

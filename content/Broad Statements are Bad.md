@@ -1,0 +1,6 @@
+- "The nation is doomed" is a bad, vague belief.
+- "The nation is doomed if fail to save the queen" is a belief with a specific, actionable goal. 
+- It tells us how you will be rewarded - 
+	- attempting to save the queen, 
+	- deciding to give up on the treacherous queen, or 
+	- successfully saving the queen.

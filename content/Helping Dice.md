@@ -1,0 +1,2 @@
+- [[Help|A helper's skill]] with exponent 4 or lower adds +1D
+- A helper's skill with exponent 5 or higher adds +2D

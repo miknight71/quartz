@@ -1,0 +1,6 @@
+- [[Will|Will]]
+- [[Perception|Perception]]
+- [[Agility|Agility]]
+- [[Speed|Speed]]
+- [[Power|Power]]
+- [[Forte|Forte]]

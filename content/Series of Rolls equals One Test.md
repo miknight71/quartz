@@ -1,0 +1,1 @@
+- Scenes where multiple tests of a kind are rolled (ex: multiple individual punches being rolled) only note one of the tests toward your advancement.

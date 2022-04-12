@@ -1,0 +1,1 @@
+- These [[Advantage|add die]] or automatic successes/fails to tests every time their used. 

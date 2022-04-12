@@ -1,0 +1,2 @@
+- Dice from [[Artha]] never count toward the "total dice rolled" when determining test difficulty for advancement.
+	- (note from Mike: I think this is the ONLY way to pass a challenging test.)

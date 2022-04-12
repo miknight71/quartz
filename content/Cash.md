@@ -1,0 +1,4 @@
+- **Cash**: Substantial cash in the form of reward or payment is a bonus die. 
+	- Cash dice are exhausted after one use. 
+	- You can also [[Generate Cash]].
+	- Use cash yourself or give it to whoever you want.

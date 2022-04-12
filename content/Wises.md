@@ -1,0 +1,9 @@
+- on the surface, wises are simple knowledge skills
+- When should we roll a wises test?
+- First, when a player asks about a piece of knowledge, tue GM should ask if he already knows it or not. 
+- If you know the answer to the player question you can:
+	- [[Roll Dice or Say Yes|Say yes]]: tell them the information that you know. 
+	- think of an interesting consequence to failure and Make a related wises test to give the information 
+- If you don't know the answer:
+	- Ask more questions to figure out their true intent. 
+	- Ask if this would contradict 

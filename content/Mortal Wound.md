@@ -1,0 +1,1 @@
+- A marker for when your character dies. 

@@ -1,0 +1,8 @@
+- Players can help one another in tests.
+- Only One player (the primary tester) rolls.
+- NOTE: (From Codex pg. 39 "Slowest and Loudest")
+	- When making a test for the entire group, the primary actor must be the one with the lowest exponent. The more skilled players must be the helpers. You can only run as fast as the slowest character. 
+- [[Conditions of Help|Qualifications to be helped]]
+- [[How Can I Help|What help you may offer others...]]
+- [[Helping Dice|How many dice a helper can give...]]
+- [[Helpers Learn|Helpers advance too]].

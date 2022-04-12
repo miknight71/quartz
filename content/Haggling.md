@@ -1,0 +1,3 @@
+- Win [[Versus Tests]] between character's haggling skills to reduce the [[Resource Obstacles]] by Ob 1. 
+- [[Fields of Related Knowledge|FoRKing]] is acceptable in haggling. 
+- See also [[Haggling as Duel of Wits]].

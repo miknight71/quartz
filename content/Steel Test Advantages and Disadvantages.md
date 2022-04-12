@@ -1,0 +1,16 @@
+- Advantages
+	- +2D - It's only a mundane shock
+	- +1D - You're safely surrounded by friends, family, or allies.
+- Disadvantages
+	- +1 Ob - You're being shot at
+	- +1 Ob - Magic is being used against you.
+	- +1 Ob - Seeing someone die
+	- +2 Ob - Small explosion
+	- +2 Ob - Murdering someone
+	- +3 Ob - Experiencing explosions
+	- +3 Ob - Experiencing pronounced magic
+	- +3 Ob - Seeing an apparition. 
+	- +4 Ob - Witnessing the living dead
+	- +4 Ob - Experiencing a natural cataclysm. 
+	- +4 Ob - Experiencing horrific magic
+	- +5 Ob - In the presence of the supernatural

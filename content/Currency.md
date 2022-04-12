@@ -1,0 +1,3 @@
+- During [[World Burning]], everyone should set a world currency to add flavor to the game.
+	- Nobody wants to haggle over "resource points."
+	- For an example, please see *Burning Wheel Gold* pages 375-376. ^cafb6d

@@ -1,0 +1,2 @@
+- Each player is required to care for their character sheet (available at burning wheel website)
+- GM keeps simple notes on NPCs and Mosters he uses - just a few numbers

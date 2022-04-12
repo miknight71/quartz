@@ -1,0 +1,2 @@
+- Call-on traits can be used to win ties or reroll failed dice on a [[Tests|test]]. 
+- Call-ons can only be used once per session. 

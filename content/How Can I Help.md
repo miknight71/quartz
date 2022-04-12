@@ -1,0 +1,7 @@
+- The helper's: 
+	- SKILLS may help skills and stats
+	- [[Stats|STATS]] may help stats
+	- [[Circles|CIRCLES]] may help circles
+	- [[Resources|RESOURCES]] may help resources
+- The helper's ability must be related (it should make sense to the players and GM)
+- Then see [[Helping Dice]]

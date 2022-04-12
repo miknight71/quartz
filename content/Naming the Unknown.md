@@ -1,0 +1,7 @@
+- Meeting the Obstacle means you meet the character, but they remain unknown, and simply become background characters again. They may not be circled up again. 
+	- Essentially, they forget your name, and you probably forget theirs as well
+- Exceeding above the Ob, the player gives the NPC an appropriate name. 
+- Write the name down on your character sheet.
+- Players may circles test for previously circled up characters at the same Ob they were originally given. 
+- The player now gains a +1D advantage in circling up this already named character in the future. (If it's on your character sheet)
+- Failing the Ob, the GM gives the NPC a name. See [[Enmity Clause]] 

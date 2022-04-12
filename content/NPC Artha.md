@@ -1,0 +1,4 @@
+- Named villains and allies start with one fate and persona each. 
+- NPCs can earn artha if the GM writes and plays beliefs for them. 
+- Archnemesis' should start with at least three fate and persona. 
+- There is little reason to give NPC's deed points. 

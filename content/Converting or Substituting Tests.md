@@ -1,0 +1,1 @@
+- You may not convert **[[Routine, Difficult and Challenging|difficult/challenging]]** "*tests for advancement*" into **routine** "*tests for advancement*". Ever.

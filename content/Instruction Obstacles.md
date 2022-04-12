@@ -1,0 +1,9 @@
+- A teacher instructs by passing "**Instruction skill tests**."
+	- Ob 1: Give the student a routine test
+	- Ob 2: Give a difficult test
+	- Ob 3: a challenging test
+	- +1 Ob: Artistic or School of thought
+	- +2 Ob: Military or Medicine skills
+	- +3 Ob: Sorcerous or special skills
+	- Other skill types carry no penalty
+- Failed tests count as [[Practice Times (chart)|practice time]] & either the student takes +1 Ob penalty next time the skill is tested or teacher take a +1 Ob penalty to next instruction test. [[Failure]]

@@ -1,0 +1,12 @@
+Mike note from podcast: failure can mean they hate you; they are incompetent; they need something from you first. Or Someone else intercepts the contact. 
+- When a Circles Test fails, the GM has an option: name the new NPC and becomes an enemy of the player. 
+- The this may be a new discovery for the player. 
+- The player character may have made this NPC be:
+	- insulted, mocked, intimidated, cheated, scorned, injured
+- These enemy characters are not amicable and unwilling to help the players.  ^e07a2c
+	- Standard social skills are a +2 Ob.
+	- +4D to [[Duel of WIts]] body of argument roll.
+- **Optionally**: The inimical character may simply be:
+	- someone else, besides the specific person players were looking for who's less helpful.
+	- They may just be someone dishonest and difficult to work with, extortioners, blackmail. 
+- **Changing Disposition**: Circled up characters can change disposition through play, positive to negative or negative to positive. 

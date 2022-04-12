@@ -1,0 +1,48 @@
+- Artha are meta-gaming points which are earned by playing on/off of your character's [[BITs|BIT's]]. ^40b3dd
+	- These points help characters overcome obstacles and become heroic over time. 
+	- [[Interface|Artha is what propels the players to drive the gameplay and story forward]].
+	- Artha allows players to act and be rewarded for what they want, thus allowing players to set the tone of the game play. ^896386
+	- [[Role of the GM|The GM should challenge the player's BITs]]. The Players can use their BITs to direct the GM where they want to take the story through their BITs. 
+- These points consist of three types:
+	- **[[Fate]]**
+	- **[[Persona]]**
+	- **[[Deeds]]**
+- [[Onward and Upward|When you use enough Artha]] you can [[Advancement|advance]] your character's abilities. 
+#### How Do You Get Artha?
+- [[Earning Artha|At the end of a session, players nominate others for points]].
+- [[Earning Fate|Fate is earned by]]: 
+	- Achieving or good roleplay of **beliefs**. 
+	- Using **instincts** to get into trouble.
+	- Causing trouble or story shift by using **traits**.
+	- Making everyone **laugh**.
+	- Having the **one skill** the party needed.
+- [[Earning Persona|Persona is earned by]]:
+	- Being a **Moldbreaker**
+	- Achieving **goals/beliefs**
+	- Being the **Workhorse**
+	- Being the **MVP**
+- [[Earning Deeds|Deeds are are earned by]]:
+	- Making a great **sacrifice** for a greater purpose.
+	- Doing something that **moves the world**, rather than just your world.
+- [[How Much (Artha)|Every session, each player should earn at least one persona and a few fate]].
+	- You may even earn up to eight fate or three persona plus change. 
+- [[Starting Artha|During character creation characters start with a small pool of artha]].
+#### Using Artha
+- [[Spending Limits|You may only spend a liminted number of artha]].
+- [[Spending Fate|Fate can be used to/for]]:
+	- **Luck**: exploding 6's or Steel, Faith, and Sorcery rerolls. (*after rolling*) 
+	- **Shrug it Off**: remove a wound penalty. 
+- [[Spending Persona|Persona can be used for]]:
+	- A **bonus** die on a test (*before rolling*)
+	- Removing a **wound** penalty
+	- **Negating** a 'working carefully' complication.
+	- **Surviving** a fatal blow
+	- Mitigating certain disaster through **[[Persona Point Complications|complication]]**. 
+- [[Spending Deeds|Deeds can be used for]]:
+	- **Double** a stat's exponent (*single use*)
+	- **Reroll** all failures. 
+- Spending enough Artha earns you Aristeia and Epiphanies.
+	- **[[Aristeia]]**: earned once you spend 5 Fate, 3 Persona, and 1 Deeds, can be used for:
+		- [[Minor Epiphany]]: Shade-shifting for one scene. 
+		- [[Divine Aura]]: Ignoring all penalties for one scene's goal.
+	- **[[Epiphany]]**: after spending 3 deeds, 10 persona, and 20 fate on an ability, shade-shift it.

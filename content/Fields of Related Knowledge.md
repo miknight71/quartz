@@ -1,0 +1,5 @@
+- A player may call on his own related skill (or related "field of knowledge" -FORK) to [[Help|aid]] his own role.
+- +1D for every related skill that can be used in the test
+- +2D if the related skill is 7 or higher.
+- Stats and Attributes never fork
+- Players may not FoRK any skills or stats into a [[Resources]] test. 

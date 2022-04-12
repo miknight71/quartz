@@ -1,0 +1,4 @@
+- Artha connects the player, the character, and the GM mechanically.
+- BITs are the conduit between player and character. 
+- BITS let everyone else know what this player wants to be rewarded for doing.
+- If a player writes "Class is meaningless, no one deserves respect by birth alone" as a belief, others know he'll be rewarded for harassing the town nobles. 

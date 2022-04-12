@@ -1,0 +1,1 @@
+- Aptitude - the number of tests needed to open a new skill - is 10 minus the skill's root stat (or the combined average rounded down if multiple roots). 

@@ -1,0 +1,3 @@
+- [[Artha]] is awarded at the end of a session
+- Players nominate each other ([[NPC Artha|or NPCs]]) for fate and persona points
+- Multiple fate should be earned every session, and persona points are tied to accomplishing goals.

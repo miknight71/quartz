@@ -1,0 +1,6 @@
+- Each [[Beliefs|Belief]] must be anchored/related to the [[World|game world]], the [[Situations|situation]], and the [[Characters|characters]]. 
+- Incorporate elements of your setting and situation into your beliefs. 
+- Look at the setting/situation and ask "what does my character..."
+	- "hate about it"
+	- "love/care about it"
+	- "want to change about it" 

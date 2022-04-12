@@ -1,0 +1,5 @@
+- [[Fate|Fate points]] can be spent in two ways:
+- **Luck**
+	- After you've rolled, purchasing Luck gives your roll exploding 6's, or allows STEEL FAITH and SORCERY to reroll traitors.
+- **Shrug it Off** ^5f6157
+	- Shrug Off +1 Ob of wound penalties for a roll. 

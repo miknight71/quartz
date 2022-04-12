@@ -1,0 +1,3 @@
+- The GM can "Break up" the results of a test over time.
+	- For instance: successfully rolling to translate an ancient text, but it will take months of work, so the character does a bit here and there, returning to work more on it over a long period of time. In such a situation, the GM may use these individual (already successful) sessions to dole out new lore. 
+- See [[Linked Tests]]

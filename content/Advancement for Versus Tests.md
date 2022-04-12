@@ -1,0 +1,1 @@
+- Your opponents successes + any Ob penalties = the Ob for your advancement.

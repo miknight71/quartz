@@ -1,0 +1,1 @@
+- The GM sets the [[Obstacles to Overcome|Ob]] of a [[Tests|test]] and the player rolls his related ability, needing [[Dice|successes]] equal to or greater than the Ob.

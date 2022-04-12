@@ -1,0 +1,5 @@
+- Characters must work to recover [[Taxed Resources]].
+- Choose a job, pick a skill to represent it, then [[Tests|test]] the skill (with [[Fields of Related Knowledge|FoRKs]]).
+- The Job Ob is the # of Taxed Dice + 1. 
+- Success recovers 1D of taxed resources (plus more for having a margin of success higher than 1).
+- Reduce working time by 10% at the cost of not reducing one of your taxed dice. 

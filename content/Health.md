@@ -1,0 +1,1 @@
+- Derived from [[Will|Will]] and [[Forte|Forte]], to recover from injury and resist pain and fatigue

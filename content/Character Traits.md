@@ -1,0 +1,5 @@
+- physical, cosmetic or mental aspects which effect role play. 
+- You become the definition of someone with said trait
+	- "Hairy" trait means other people are hairy, but you're THE HARIEST person around. 
+- Character Traits are often the crux for creating all sorts of [[Fun (working title)|in-game problems/scenarios]]. 
+- Character Traits help immerse us in the game and story.

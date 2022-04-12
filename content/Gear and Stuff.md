@@ -1,0 +1,2 @@
+- Gear augments [[Ability Ratings (Exponent)|abilities]] and penalties for [[Advantage|better]] or [[Disadvantage|worse]]
+- [[Tools]]

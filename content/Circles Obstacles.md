@@ -1,0 +1,43 @@
+- Circles tests have a base **Ob of 1**. 
+	- A typical person common to your circle. 
+	- Common to your rank, 
+	- ambivalent to your rank and 
+	- doesn't really know more or less than you do. 
+	- His exponents are 3. 
+	- He is available in this scene if need be. 
+- **Occupation**
+	- Common to you occupation +0 Ob
+	- Uncommon occupation +2 Ob
+	- Specialized or rare occupation +3 Ob
+- **Station**
+	- Same rank as you +0 Ob
+	- Lower rank than you +1 Ob
+	- Higher rank than you +2 Ob
+	- Highest rank in the circle +3 Ob
+- **Attitude**
+	- Neutral attitude towards the player +0 Ob
+	- Positive attitude towards player or his intent/task +1 Ob
+	- A loyal supporter of the player or his intent +3 Ob
+- **Knowledge**
+	- Knows nothing important or only knows what the players already do +0 Ob
+	- Has general knowledge about the subject +1 Ob
+	- Has specific knowledge about a subject +2 Ob
+- **Skill**
+	- Exponent 3 +0 Ob
+	- Competent (4) +1 Ob
+	- Expert (5) +2 Ob
+	- Master (6) +3 Ob
+	- Excellent (7) +4 Ob
+	- Virtuoso (8) +5 Ob
+	- Uncanny (9) +6 Ob
+	- The Unbeaten Grand Master (10) +7 Ob
+- **Place and Time**
+	- When not under time or travel constraints +0 Ob
+	- Need to access the. soon, but not right this moment +1 Ob
+	- Right here, right now +3 Ob
+- **[[Enmity Clause#^e07a2c|Enmity Clause]]**
+	- to any standard social skill against a NPC brought in from a failed circles test +1 Ob
+	- Former friend who has become an enemy +2 Ob
+- Add all of the Obstacles up and you'll have your Circles Ob. 
+
+This table is taken from Burning Empires pages 348 & 349. It has been elaborated on by me. 

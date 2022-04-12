@@ -1,0 +1,5 @@
+- **Divine Inspiration**
+	- Before dice are cast, spend a [[Deeds]] artha to double any stat's [[Ability Ratings (Exponent)|exponent]] for this test
+	- Only double the base stat, [[Double Obstacle Penalty|then add other dice]].
+- **Saving Grace**
+	- Spend a Deeds point to reroll all traitor dice.

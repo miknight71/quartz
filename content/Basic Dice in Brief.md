@@ -1,0 +1,4 @@
+- Roll [[Dice|dice]] when a conflict arises
+- The number of die is determined by the [[Ability Ratings (Exponent)|Exponent]] of the character's [[What Ability do I Roll|relevant ability]]
+- 4-6's are [[Success|SUCCESSES]], 1-3's are [[Failure|FAILURES]] (except when dealing with Grey and White [[Shade|shades]])
+- Some rolls are "[[Open Ended Rolls|open ended]]."

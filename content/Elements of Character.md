@@ -1,0 +1,2 @@
+- Burning wheel is a gritty game that explores characters' limitations and luck.
+- Characters are composed of stats, attributes, skills, beliefs, insticts, traits, resources, relationships, reputations, affiliations, circles, and his stuff.

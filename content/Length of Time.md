@@ -1,0 +1,5 @@
+- Stat tests can be instantaneous (catching a ball), or take minutes or hours (climbing a cliff face)
+- **Academic** tests are either instantaneous recall or a minimum of days of research, but often months/years
+- **Artistic** tests may be weeks to years
+- **Craftsmen** may take weeks to make a mail shirt
+- **Martial** tests are usually instant

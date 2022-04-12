@@ -1,0 +1,2 @@
+- Skills open as the same [[Shade|shade]] as the root (the darkest root if multiples)
+- See Codex "Gray and White Math" also BWG "Heroic and Supernatural"

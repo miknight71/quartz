@@ -1,0 +1,2 @@
+- Votes are typically ever 6-12 sessions, but you can increase the rate of votes and thus increase the rate of character development. 
+- This should be discussed with the group before character burning. 

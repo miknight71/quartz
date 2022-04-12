@@ -1,0 +1,5 @@
+- It's [[Role of the GM|the GM's job]] to use Ob appropriately to set the mood of the game: 
+	- oppressive and weighty vs. heroic and grandiose.
+		- ([[Starting Artha|your starting Artha can also influence oppressiveness vs heroism]])
+- The GM uses both articulate descriptions and the mechanics of the game to set atmosphere.
+- See the chart [[Difficulty by Obstacle|Difficulty By Obstacle]] and [[Absolute Diffculty]]

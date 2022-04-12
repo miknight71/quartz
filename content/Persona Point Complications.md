@@ -1,0 +1,6 @@
+- You may spend a persona point to [[Failure Complicates the Matter|further complicate]] a failed roll.
+- This can be used to mitigate certain disaster, and choose a new fate, but must come at a material or otherwise tangible cost. 
+- *Ranger fails his sneak, and now the bandit camp looks for him. Spending a persona, he loses his bow and quiver as he tries to escape. He also is forced to hide in the sewer.*
+- *A player spends persona to complicate a failed block test to avoid being struck, but at the cost of the block breaking his sword.*
+- *TO avoid being struck by the weapon, spends a persona point to dodge, trip, drop my weapons, and hang from a cliff side.*
+- Persona complications can be used in social or academic tests to mitigate those disasters as well.

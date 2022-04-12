@@ -1,0 +1,11 @@
+- Steel Tests:
+	- Ob 1 - Learning of a dead relative / low-grade supernatural event
+	- Ob 2 - Witnessing a fight, beating, stabbing, accident. In the presence of someone with the Dreaded trait. Childbirth. Heated competition.
+	- Ob 3 - Seeing Real bloodshed and gore. Being badly beaten. Being in a riot. Bearing a child.
+	- Ob 4 - Duel to the death. Knightly tourney. Being stabbed. Shooting someone. Witnessing friend killed. Surviving disaster. Meeting anthropomorphic monsters.
+	- Ob 5 - Participation in mass battle. Being shot. Fatally stabbing someone. Cold blooded murder. 
+	- Ob 6 - Surviving mortal wound. Living through starvation. 
+	- Ob 7 - Meeting intelligent non-humanoids. 
+	- Ob 8 - Surviving artillery barrages. Meeting living dead.
+	- Ob 9 - Presence of angels. Seeing cataclysmic disaster.
+	- Ob 10 - Being in front of the divine. 

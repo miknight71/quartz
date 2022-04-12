@@ -1,0 +1,3 @@
+- Spending a aristeia to ignore all wound or other die penalties while accomplishing one single goal. 
+- The goal must be stated before purchase (to escape, win this battle, sway the court to my side)
+- If you have to disengage a goal (the enemy gets away, and you'll need to fight him later) the aristeia is lost. 

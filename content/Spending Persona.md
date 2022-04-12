@@ -1,0 +1,10 @@
+- **Boon**
+	- Spend (up to three) [[Persona]] to grant a bonus +1D on a test (purchase before rolling).
+- **Grit Your Teeth** ^ff4f34
+	- Spend a persona point to remove -1D wound penalty. Costs an action during conflicts.
+- **Focus** ^dbe2dd
+	- If you fail a [[Carefully, Patiently, Quickly - Allocating Successes|'working carefully']] test, spend a persona to counteract the effect of a time complication. 
+- **Will to Live**
+	- If you are struck down with a mortal wound, spending a persona is your only chance to survive by attempting a recovery test. 
+	- See the Anatomy of Injury
+- See also the optional rule **[[Persona Point Complications]]**

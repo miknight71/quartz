@@ -1,0 +1,4 @@
+- BITs are the core of Burning Wheel. They are the core of your character. 
+- [[Beliefs|Beliefs]]
+- [[Instincts|Instincts]]
+- [[Traits|Traits]]

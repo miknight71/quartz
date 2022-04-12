@@ -1,0 +1,4 @@
+- Players testing [[Resources]] may be [[Help|helped]] by another player's resource [[Helping Dice|die]]. 
+- If the testing player fails his resource test, everyone who helped also gets [[Taxed Resources]].
+- The helper does not need to be present in the scene to help resources. 
+	- Giving your friend a bank note, for instance. 

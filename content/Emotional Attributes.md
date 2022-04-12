@@ -1,0 +1,1 @@
+- Tested by special circumstances in the game. Further discussed in the lifepath chapter

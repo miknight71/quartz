@@ -1,0 +1,8 @@
+- Player's primary responsability is to offer hooks the GM and other players can play off of. Do this through your [[Belief Workshop|Beliefs]], [[Instinct Workshop|Instincts]], and Traits. 
+- Use Lifepaths to build a character, but don't fill in much backstory. Leave that emerge as other players and the GM improvise. 
+- Drive the story forward by pushing and risking your characters. This will create and resolve conflict in unforeseen ways. 
+- Players are expected to be familiar with the mechanics and call for them of their own volition. Don't wait for the GM to use a rule, call for [[Tests]] yourself. 
+- Participate in your friend's scenes. But don't focus on winning, focus on pushing the story forward and giving others the spotlight every once in a while. Riff off of them and follow their leads. Rein them in when they get out of hand.  
+- If the story doesn't interest you it is your job to make it interesting. Make interesting situations that involve you. But don't be disruptive to other player's fun. 
+- Tell your GM what you like, and what you don't like. You can do so during the session, or any time. 
+- HAVE FUN! 

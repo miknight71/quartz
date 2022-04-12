@@ -1,0 +1,4 @@
+- When a character is awe-struck by the fantastic, star-struck by celebrity, or mesmerized by the beautiful, he must make a [[Steel]] test to not be overcome by wonderment. 
+	- witnessing advance technology
+	- seeing magic
+	- meeting your idol

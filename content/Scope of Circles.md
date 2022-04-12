@@ -1,0 +1,5 @@
+- Who may you *circle up?* 
+	- **You can** do a circles test for character's that would have had one of the same **lifepaths** or lifepath **setting** of the PC. 
+		- Knights know other knights, clergy know other clergy.
+	- **You cannot** circle up someone outside your lifepath setting.
+	- local [[Reputations]] or [[Affiliations]] can't be used for [[Circles]] outside of their locality. 

@@ -1,0 +1,5 @@
+- Every game, each player should: 
+	- accomplish at least one goal - earning them a persona point
+	- play their belief's, instincts, or traits - earning fate
+- Smart players may earn up to eight fate a session! Or up to three persona points and additional fate.
+- If no artha is earned, players or GM are not engaging with the system, and should recallibrate their BITs.

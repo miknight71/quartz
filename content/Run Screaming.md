@@ -1,0 +1,3 @@
+- Drop everything you're holding and run, full speed, away from the object of shock. 
+- He must scream. (He may scream an idiom if he wants "*God save me!*")
+- You cannot run cautiously, only quickly and in the opposite direction, even if that is in the direction of other danger. 

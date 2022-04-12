@@ -1,0 +1,3 @@
+- Beliefs are meant to be changed. But the GM must be the final say on whether a belief change is appropriate, and not just a player trying to avoid conflict.
+	- Danny believed "One man can make a difference" but spent all his time helping his friends, holding the group together. His outlook had changed and thus he changed his belief to: "only together will we be victorious"
+	- Chris believes that "the merchants who killed my parents must die." The other PC in the party is a merchant who black mails Chris to control him. Chris, incensed, changes his belief to "all merchants are evil and must die." That's some drama right there. 

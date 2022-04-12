@@ -1,0 +1,1 @@
+- [[Graduated Tests|Graduated tests]] always count as [[Obstacles to Overcome|Ob]]1 / [[Routine, Difficult and Challenging|Routine]]

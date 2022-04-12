@@ -1,0 +1,11 @@
+- Take notes as you play. 
+	- Important NPCs
+	- places that you've mentioned.
+	- Previous beliefs, instincts, traits
+	- Improvised backstories.
+	- NPC BITs
+	- historical events
+	- etc.
+- Use these as [[GM Prep]] aids:
+	- create [[Bangs]] or interesting complications.
+	- set up the opening scenes of future sessions. 

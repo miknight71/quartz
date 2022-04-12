@@ -1,0 +1,643 @@
+ [[Hacks]]
+# Prep
+http://customrpgfiles.wikidot.com/bwg-gm-screen
+https://forums.burningwheel.com/t/bwg-gm-reference-supplements/13196
+https://www.reddit.com/r/BurningWheel/comments/f1hxld/how_to_guide_new_players_through_character_burning/
+# Burning Wheel Gold Summary
+
+Pages:
+
+9 
+
+![[Gold Introduction]]
+
+10
+
+![[Using This Book]]
+
+[[Voices in My Head]]
+
+![[Flow of the Game]]
+
+11
+
+![[Sheets of Paper]]
+
+![[Dice]]
+
+12
+## Ability Ratings
+![[Ability Ratings (Exponent)]]
+
+### Expertise by Exponent
+![[Expertise by Exponent]]
+
+13
+
+### Shade
+![[Shade]]
+
+## When To Roll
+![[When To Roll]]
+
+### Tests
+![[Tests]]
+
+14
+
+## Obstacles to Overcome
+![[Obstacles to Overcome]]
+
+### Difficulty by Obstacle
+![[Difficulty by Obstacle]]
+
+### Absolute Difficulty
+![[Absolute Diffculty]]
+
+### Increasing Difficulty
+![[Increasing Difficulty]]
+
+16
+
+## Open Ended Rolls
+![[Open Ended Rolls]]
+
+## Die of Fate
+![[Die of Fate]]
+
+## Basic Dice in Brief
+![[Basic Dice in Brief]]
+
+17
+
+# Elements of Character
+![[Elements of Character]]
+
+17-18
+
+## Stats
+![[Stats]]
+
+18-19
+
+## Attributes
+![[Attributes]]
+
+## Shade
+- See [[Shade]]
+- Your ability can be mundane, heroic, or supernatural
+
+## Skills
+![[Skills]]
+
+## Beliefs
+![[Beliefs]]
+
+
+20
+
+## Instincts
+![[Instincts]]
+
+## Traits
+![[Traits]]
+
+## Resources and Circles
+### Resources
+![[Resources]]
+
+21
+
+### Circles
+![[Circles]]
+
+### Gear and Stuff
+![[Gear and Stuff]]
+
+22
+
+## From Hub to Spokes
+- Next we look deeper into:
+	- How to [[Tests|test]] your abilities
+	- How to [[Advancement|Advance]]
+	- How to tell the other players what you want (A temp list is nested till i find the appropriate note to file them under.)
+		- [[Beliefs in Play]]
+		- [[Interface]]
+	- How to get [[Artha|rewarded]]
+
+23
+
+# The Spokes
+
+24
+
+# Testing Your Abilities
+- ![[Tests#^464fe6]]
+
+## Intent
+![[Intent]]
+
+25
+
+## Task
+![[Task]]
+
+## What Ability Do I Roll?
+![[What Ability do I Roll]]
+
+## Standard Tests
+![[Standard Tests]]
+
+26
+
+## Versus Tests
+![[Versus Tests]]
+
+## Graduated Tests
+![[Graduated Tests]]
+
+27
+
+## Linked Tests
+![[Linked Tests]]
+
+### Failure Behind, Success Ahead
+![[Failure Behind, Success Ahead]]
+
+### Time and Linked Tests
+![[Time and Linked Tests]]
+
+## Advantage and Disadvantage
+![[Advantage and Disadvantage]]
+
+28
+
+### Advantage
+![[Advantage]]
+
+### Disadvantage
+![[Disadvantage]]
+
+29
+
+### Mixing Advantage and Disadvantage
+![[Mixing Advantage and Disadvantage]]
+
+## Double Obstacle Penalty
+![[Double Obstacle Penalty]]
+
+29-30
+
+## Carefully, Patiently, Quickly: Allocating Successes
+![[Carefully, Patiently, Quickly - Allocating Successes]]
+
+## Success
+![[Success]]
+
+32
+
+## Failure
+![[Failure]]
+
+### Two Directions
+![[Two Directions]]
+
+### Failure Complicates the Matter
+![[Failure Complicates the Matter]]
+
+## Let it Ride
+![[Let it Ride]]
+
+33
+
+## Time
+![[Time]]
+
+### Length of Time
+![[Length of Time]]
+
+35
+
+### Breaking up a Test
+![[Breaking up a Test]]
+
+### Time and Failure
+![[Time and Failure]]
+
+### Time and Play: Meanwhile
+![[Time and Play - Meanwhile]]
+
+## Help
+![[Help]]
+
+### Conditions of Help
+![[Conditions of Help]]
+
+36
+
+### How can I help?
+![[How Can I Help]]
+
+### Helping Dice
+![[Helping Dice]]
+
+## Fields of Related Knowledge
+![[Fields of Related Knowledge]]
+
+37
+
+## Exponent 0
+![[Exponent 0]]
+
+## Unskilled Tests
+![[Unskilled Tests]]
+
+### Beginners Luck
+![[Beginners Luck]]
+
+## Tools
+![[Tools]]
+
+### Replenishing Tools
+![[Replenishing Tools]]
+
+38
+
+## Written Instructions
+![[Written Instructions]]
+
+### Written Word as Practice
+![[Written Word as Practice]]
+
+## Testing Abilities in Brief
+
+40
+
+# Advancing Abilities
+![[Advancement]]
+
+## Advancement Is Lifeblood
+- Characters advance their character by succeeding and failing tests
+
+41
+
+## Routine, Difficult and Challenging
+![[Routine, Difficult and Challenging]]
+
+### Number of Dice Rolled vs Obstacle
+![[Number of Dice Rolled vs Obstacle]]
+
+42
+
+## Number of Tests Required for Advancement
+![[Number of Tests Required for Advancement]]
+
+43
+
+### Advancing Skills
+![[Advancing Skills (Table)]]
+
+### Advancing Stats
+![[Advancing Stats]]
+
+## Pass or Fail
+![[Pass or Fail]]
+
+## Advancing Attributes
+![[Advancing Attributes]]
+
+44
+
+## Advancing Circles and Resources
+![[Advancing Circles and Resources]]
+
+## Experience Log
+
+## Handing Out Tests
+![[Handing out Tests]]
+
+### Soliciting Tests (Test Mongering)
+ ![[Soliciting Tests (Test Mongering)]]
+
+45
+
+## Series of Rolls = One Test
+![[Series of Rolls equals One Test]]
+
+## I Just Learned Something!
+![[I Just Learned Something]]
+
+### Wipe the slate clean
+![[Wipe the Slate Clean]]
+
+### Converting or Substituting Tests
+![[Converting or Substituting Tests]]
+
+## Advancement for Graduated Tests
+![[Advancement for Graduated Tests]]
+
+## Advancement for Versus Tests
+![[Advancement for Versus Tests]]
+
+46
+
+## Helping and Advancement
+![[Helping and Advancement]] 
+
+### Helpers Learn
+![[Helpers Learn]]
+
+## FoRKs and Advancement
+![[FoRKs and Advancement]]
+
+## Advantage Dice and Advancement
+![[Advantage Dice and Advancement]]
+
+47
+
+## Artha and Advancement
+![[Artha and Advancement]]
+
+## Social Skills and Advancement
+![[Social Skills and Advancement]]
+
+## Practice
+![[Practice]]
+
+47-49
+
+### Practice Times
+![[Practice Times (chart)]]
+
+## Learning New Skills
+![[Learning New Skills]]
+
+### Aptitude
+![[Aptitude]]
+
+50
+
+#### Beginner's Luck for Learning
+![[Beginner's Luck for Learning]]
+
+### Opening the Skill
+![[Opening the Skill]]
+
+#### Shade and New Skills
+![[Shade and New Skills]]
+
+## Learning from Another
+![[Learning From Another]]
+
+### Instruction Obstacles
+![[Instruction Obstacles]]
+
+
+51
+
+### Test Me
+![[Learning From Another#^a05d3b]]
+
+### Instruction Time
+![[Instruction Time]]
+
+### All Day, Every Day
+![[All Day Every Day]]
+
+### Learning Training Skills
+![[Learning Training Skills]]
+
+## Advancement in Brief
+...
+
+53
+
+# Beliefs, Instincts and Traits
+- [[#Elements of Character]] > [[#Beliefs]]
+- Players are to determine their character's priorities (beliefs, instincts, and traits) and their means to achieve them.
+
+## Beliefs
+![[Beliefs]]
+
+### Anchored Beliefs
+![[Anchored Beliefs]]
+
+54
+
+### Beliefs in Play
+![[Beliefs in Play]]
+
+55
+
+### Changing Beliefs
+![[Changing Beliefs]]
+
+## Instincts
+![[Instincts]]
+
+56
+
+### Always, Never, When or If/Then
+![[Always Never When or If-Then]]
+
+### Insurance
+![[Insurance]]
+
+### Changing Instincts
+![[Changing Instincts]]
+
+57
+
+## Traits
+![[Traits]]
+
+### Character Traits
+![[Character Traits]]
+
+58
+
+### Call-On Traits
+![[Call On Traits]]
+
+### Die Traits
+![[Die Traits]]
+
+### Mechanical Reward
+![[Mechanical Reward]]
+
+## Changing Traits and Earning New Ones
+
+59
+
+### Trait Vote
+![[Trait Vote]]
+
+### Voted Off the Island
+![[Voted Off the Island]]
+
+### Evolving Beliefs and Instincts
+![[Evolving Beliefs and Instincts]]
+
+### Rate of Change
+![[Rate of Change]]
+
+60
+
+## Beliefs, Instincts and Traits in Brief
+
+61
+
+# The Artha Wheel
+![[Artha]]
+
+## Spiritual Rewards in a World on Fire
+
+### Artha
+
+## Interface
+![[Interface]]
+
+62
+
+### GM's Role
+![[GM's Role]]
+
+## Fate, Persona and Deeds
+- Fate is earned by walking the character's path
+- Persona is earned by breaking the character's mold and roleplaying
+- Deed are hardest to earn.
+
+## Onward and Upward
+![[Onward and Upward]]
+
+63
+
+## Earning Artha
+![[Earning Artha]]
+
+### Fate
+
+63-64
+
+![[Earning Fate]]
+
+### Persona
+![[Earning Persona]]
+
+### Deeds
+![[Earning Deeds]]
+
+## Spending Artha
+- Artha modifies dice rolls, allowing charcters to perform heroic acts
+- Artha can only be added to dice rolls, preferably during a dramatic event
+
+### Fate
+![[Spending Fate]]
+
+### Persona
+![[Spending Persona]]
+
+### Deeds
+![[Spending Deeds]]
+
+### Spending Limits
+![[Spending Limits]]
+
+### Optional Rule: Persona Point Complications
+![[Persona Point Complications]]
+
+68
+
+## Aristeia
+![[Aristeia]]
+
+#### Minor Epiphany
+![[Minor Epiphany]]
+
+#### Divine Aura
+![[Divine Aura]]
+
+69
+
+## Artha and Advancement
+![[Artha and Advancement]]
+
+## Epiphany
+![[Epiphany]]
+
+### Other Artha Expenditures
+![[Other Artha Expenditures]]
+
+## Artha and Game Play
+
+70
+
+![[Artha#^896386]]
+
+### How Much?
+![[How Much (Artha)]]
+
+
+### Starting Artha
+![[Starting Artha]]
+
+### NPC Artha
+![[NPC Artha]]
+
+71
+
+## Artha in Brief
+
+72
+
+# The Spokes in Play
+## Vincent's Admonition
+![[Roll Dice or Say Yes]]
+
+
+## Setting Obstacles. 
+![[Setting Obstacles]]
+
+## Versus Tests Revisited
+![[Versus Tests Revisited]]
+
+## Make Characters and Play Now
+- Now get a friend and do a one goal scenario to play out the versus test rules, advancements, and using artha.
+- Make notes as questions arise.
+
+
+
+# The Garden is Burning
+
+77
+
+# Fire in the Garden
+- Nothing matters without the characters
+- Making characters is detailed.
+- Character creation choices have consequences for each path you choose. 
+- This process makes complex characters with strengths, bruises, and story fuel.
+- Before you've even thought about backstory, you get a glimpse into your character's life, and see them ready to make an ejoyable game.
+
+78
+
+## From the Day Your Were Born...
+- The basic mechanic of character creation is the lifepath
+
+### Lifepaths
+- Lifepaths are the culmination of short slices of life leading to where he is now.
+
+### Setting
+- Lifepaths are grouped into "settings," different strata of life or geography.
+- You must choose lifepaths from the setting you're born into, unless you follow a lifepath lead to a new setting.
+
+### Character Stock
+- There are four different stocks (races) to choose from, and you may only choose lifepaths from your chosen stock. 
+- However, you use the same core rules for all stocks.
+
+79
+
+...
+
+81
+
+# Character Burning

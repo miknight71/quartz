@@ -1,0 +1,4 @@
+- Some tests have no Ob, but rather you simply gain more by having more successes (researching or studying for example).
+- Use [[Absolute Diffculty|the standard difficulty paradigm chart]] to determine what information is revealed by the number of successes.
+	- 1 is obvious stuff, 5 is expert knowledge, 10 is miraculous understanding.
+- See also [[Advancement for Graduated Tests]]

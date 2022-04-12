@@ -1,0 +1,5 @@
+- Burning wheel is about characters drivin by and act on their traits instincts and beliefs. 
+- Not driven by your stats and don't all have the same motivation. 
+- Character motivation is core element of gameplay. 
+- Rewards are based on your character motivations. Achieving your motivations. 
+- YOu are rewarded for acting in line with or against your BITS. 

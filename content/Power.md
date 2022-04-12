@@ -1,0 +1,1 @@
+- Physical strength and melee damage

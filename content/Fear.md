@@ -1,0 +1,5 @@
+- When a character is scared, terrified, or disconcerted make a [[Steel]] test.
+- Similar to [[Surprise]], only call for the test if there are consequences to failing. 
+- Examples:
+	- Spooky noises at night
+	- Gore

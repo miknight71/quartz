@@ -1,0 +1,3 @@
+- FORKS count toward the total diced for advancement. 
+- FORKED abilities do not earn tests for growth, only the skill being tested earns the test for advancement. 
+- Overreliance on [[Fields of Related Knowledge|FoRKs]] can hinder your skills' growth.

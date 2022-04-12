@@ -1,0 +1,2 @@
+- You can only [[Tests|test]] [[Ability Ratings (Exponent)|abilities]] which have an exponent of 1 or higher
+- **Resources 0**: You can test [[Advancing Circles and Resources|Resources]] 0 if you have cash dice or another player loans it to you. 

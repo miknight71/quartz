@@ -1,0 +1,1 @@
+- When an exponent advances, extra tests are discarded.

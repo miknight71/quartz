@@ -1,0 +1,2 @@
+- **Task** describes how you accomplish your [[Intent|intent]] in a measurable, quantifiable act (usually easily linked to an [[Ability Ratings (Exponent)|ability]]/skill)
+- "I convince him" is not an appropriate task while "I persuade him to take my side by explaining his wife's affair with the cardinal" is an appropriate intent and task.

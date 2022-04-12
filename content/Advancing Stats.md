@@ -1,0 +1,2 @@
+- Advancing Stats is similar to [[Advancing Skills (Table)|advancing skills]].
+- Routine [[Tests|Tests]] don't count towards advancement of [[Stats|stats]]. Use the table above, [[Routine, Difficult and Challenging|but only use the DIfficult and Challenging numbers]]. Rather than Exp 1-4 being Difficult OR Challenging, know that to advance a Stat, you must pass the Difficult AND Challenging tests.

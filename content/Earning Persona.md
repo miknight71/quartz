@@ -1,0 +1,14 @@
+- **Embodiment**
+	- If a player drives the story forward going above and beyond in role play (amazing speech, desperate decision, gruesome revenge) they earn [[Persona|persona]]. (rare)
+- **Moldbreaker**
+	- If a character must act in a way contrary to his BITs, and the player really role plays it in a believable or engaging manner, her earns persona.
+	- Players and GM nominate each other. Then a majority vote awards the point. 
+	- (I think only one moldbreaker may be eligible per session.)
+- **Personal Goals**
+	- By accomplishing an explicitly written goal in a character's [[Beliefs|beliefs]], or an explicitly stated group goal (the parts of the adventure), you earn persona. 
+- **Workhorse**
+	- Being the most relied upon character for mundane stuff in a given scenario earns a persona. (The behind the scenes character)
+- **MVP**
+	- Players vote for the player who drives the story to it's conclusion. (We couldn't have done it without him)
+- **Voting for Workhorse and MVP**
+	- At the end of a scenario, adventure, or campaign, the players and GM all get one vote. (See [[Earning Artha]])

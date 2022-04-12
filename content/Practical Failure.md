@@ -1,0 +1,49 @@
+- Failure can lead to: 
+	- **A New Test**. 
+		- *My failed orienteering led me to a trap. Now test speed to avoid the trap.*
+	- **Full Conflict**.
+		- *Your failed sneak leads to a martial conflict with all the guards.*
+	- **Unexpected Encounter**
+		- *my failed orienteering test led to a monster's layer.* That monster can now become a recurring element of the story. 
+	- **Obstacle Penalties**
+		- +1 Ob or +2 Ob to future linked/related tests. 
+		- *Failing to sneak, you now have a +1 Ob to either stay and fight or running away.*
+		- *You insult someone so badly that the GM imposes a semi-permanent +2 Ob to all future social skills tests against them.*
+	- **Gear Loss**
+		- Lost forever
+		- damaged
+			- the GM can assign an Ob penalty to damaged goods until it's repaired.
+		- lost and must be recovered through another adventure
+		- The more drastic the failure, the more drastic the loss. 
+	- **Injury**
+		- (I have yet to read the injury rules, so revisit this once I've done that. See Codex pages 122 & 123 )
+	- **Turning a Relationship**
+		- Bad rolls can change the nature of a relationship you have from good to bad. 
+		- This can be temporary or permanent. 
+		- These can be the results of a failed social test, or even situational tests gone wrong
+			- *failed stealing test, your friend finds you stealing and no longer trusts you.*
+		- Just make sure the GM makes the true stakes clear.
+	- **Destroying a Reputation**
+		- If you fail the appropriate social test, or do something disreputable, you may lose 1D reputation permanently.
+	- **Damaging Affiliation**
+		- *Fail an accounting or Estate Management test? -1D affiliation.*
+		- *Poor conduct causes your organization to be embarrassed because of you. -1D* 
+	- **Apply Traits**
+		- Failure fundamentally changes the character, giving them new [[Traits]].
+		- Character traits: Scarred, branded, stigmatized
+		- Die Traits: *Such as the Infamous trait.* 
+		- Attribute caps 
+		- [[Call On Traits]] are solely beneficial, do not grant these as a result of failure. 
+	- **Trigger Instincts**
+		- If they fail, test their instincts to get them into trouble.
+		- *You never wear shoes? Your failure results with you walking on sharp glass.*
+		- *You never accept an insult? Your failure is met with them insulting you every failed social test*
+		- This attention to player character details shows you care and gives them a chance to earn [[Artha]]. 
+- Take your time creating failure conditions. It's worth it if the twist is interesting. 
+- Make it a discussion with the whole table, ask the other players what a good complication would be. [^1] 
+- Complicate a failed roll with [[Bangs]]. [^1]
+
+#### Future Reading
+- Check out "Failure Cheat Sheet" discussion on the Burning Wheel Forums. 
+
+[^1]:  u/davblaster "Dear GMs, Please describe how you prepare to BW sessions" *Reddit*. Accessed April 11, 2022. 
